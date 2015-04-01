@@ -300,8 +300,6 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 50px;
     opacity: .9;
-     -webkit-text-stroke-width: .8px;
-    -webkit-text-stroke-color: black;
 }
 
 @media(min-width:768px) {
