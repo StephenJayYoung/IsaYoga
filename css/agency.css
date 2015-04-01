@@ -4,44 +4,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-/* instafeed stuff - populates index page with instagram pics  */
-#instafeed{
-  padding: .2px .2px .2px .2px;
-  margin:10px;
- /* border:1px solid #e1e1e1;*/
-  display:inline-block;
-  border-radius: 4px;
-  /*position: fixed;*/
-/*  padding-right: 5px;
-  padding-left: 5px;*/
-  max-width: 100%;
-  height: auto;
-
- /* float: right;*/
-}
-
-#instafeed a {
-  padding: .1px .1px .1px .1px;
-  margin:5px;
-/*  border:1px solid #e1e1e1;*/
-  display:inline-block;
-  border-radius: 1px;
-  /*position: fixed;*/
-  padding-right: 5px;
-  padding-left: 5px;
-  max-width: 100%;
-  height: auto;
-}
-
-#instafeed a img {
-  max-width: 100%;
-  height: auto;
-}
-/* end instafeed stuff */
-
-
-
-
 
 body {
     overflow-x: hidden;
@@ -692,7 +654,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-image: url();
     background-position: center;
     background-repeat: no-repeat;
 }
