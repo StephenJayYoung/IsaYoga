@@ -6,7 +6,7 @@
    }
 }
  
- { "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/StephenJayYoung/IsaYoga.git"
   },
