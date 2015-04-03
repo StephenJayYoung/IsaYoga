@@ -1,9 +1,8 @@
 {
   "name": "IsaYoga",
+  "description": "Website for Isabella Taylor Yoga",
   "version": "0.0.1",
   "engines": {
-  "iojs": "1.0.x"
-   }
+    "npm": "2.1.x"
+  }
 }
- 
-
