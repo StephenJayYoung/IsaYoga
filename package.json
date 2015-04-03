@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Website for Isabella Yoga",
   "main": "index.js",
+  "engines": {
+  "node": "0.10.x"
+   }
   "scripts": {
     "test": "Mocha W"
   },
