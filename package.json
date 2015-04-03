@@ -1,15 +1,12 @@
 {
   "name": "IsaYoga",
-  "version": "1.0.0",
-  "description": "Website for Isabella Yoga",
-  "main": "index.js",
+  "version": "0.0.1",
   "engines": {
-  "node": "0.10.x"
+  "iojs": "1.0.x"
    }
-  "scripts": {
-    "test": "Mocha W"
-  },
-  "repository": {
+}
+ 
+ { "repository": {
     "type": "git",
     "url": "https://github.com/StephenJayYoung/IsaYoga.git"
   },
