@@ -1,8 +1,8 @@
 {
   "name": "IsaYoga",
-  "description": "Website for Isabella Taylor Yoga",
+  "description": "site for Isabella's Yoga Practice",
   "version": "0.0.1",
   "engines": {
-    "npm": "2.1.x"
+    "node": "0.10.x"
   }
 }
